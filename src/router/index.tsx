@@ -127,11 +127,10 @@ const router = createBrowserRouter([
         element: <FourIns />,
       },
     ],
-    
   },
 ],
   {
-    // basename: "/WEPASS/dist"
+    basename: "/scheduler/"
   }
 
 );
