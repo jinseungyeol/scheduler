@@ -130,7 +130,7 @@ const router = createBrowserRouter([
   },
 ],
   {
-    basename: "/scheduler/"
+    // basename: "/scheduler/"
   }
 
 );
